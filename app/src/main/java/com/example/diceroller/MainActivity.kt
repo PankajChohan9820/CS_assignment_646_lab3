@@ -73,6 +73,8 @@ class MainActivity : AppCompatActivity(),RollLengthDialogFragment.OnRollLengthSe
             }
             returnVal
         }
+//        val relativeLayout = findViewById<RelativeLayout>(R.id.relativeLayout)
+//        relativeLayout.setBackgroundResource(R.drawable.background_image)
 
     }
 
